@@ -1,3 +1,6 @@
+
+// This is in es6 syntaxe.
+
 class CommentBox extends React.Component {
 
   constructor(props) {
